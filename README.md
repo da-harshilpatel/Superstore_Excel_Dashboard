@@ -4,6 +4,12 @@
 
 This project presents a comprehensive analysis of sales data from a superstore using Excel, focusing on delivering actionable insights through intuitive visualizations. It highlights sales and profit trends, regional performance, manager effectiveness, and product category performances in a user-friendly dashboard format. Key visualizations include charts for customer trends, shipping methods, and customer retention rates, aimed at supporting strategic decision-making.
 
+## Download Data
+
+You can download the Excel dataset used in this project for further exploration:
+
+- [Download Superstore_sales.xlsx](Superstore_sales.xlsx)
+
 ## Features
 
 1. **Data Analysis and Visualization**
