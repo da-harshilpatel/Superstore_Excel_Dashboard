@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard
+# Superstore Sales Dashboard Excel
 
 ## Overview
 
