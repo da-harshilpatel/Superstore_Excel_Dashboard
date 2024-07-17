@@ -32,4 +32,5 @@ This project demonstrates my ability to extract meaningful insights from data us
 
 ## Screenshot of the Dashboard
 ![Excel Dashboard](Dashboard(executive_summary).png)
+![Excel Dashboard](Dashboard(product_category).png)
 
